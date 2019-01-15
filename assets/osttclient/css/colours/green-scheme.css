@@ -1,0 +1,173 @@
+a {
+  color: #82c100;
+}
+
+#loading h4 {
+  color: #82c100;
+}
+
+.block-box {
+  border-color: #82c100;
+}
+
+.block-box:hover {
+  background: #82c100;
+}
+
+.block-box:active,
+.block-box:focus {
+  color: #82c100;
+}
+
+.blue {
+  color: #82c100;
+}
+
+.navbar-container ul li.active a,
+.navbar-container ul li a:hover {
+  background: #82c100;
+}
+
+.thread-entry.message th {
+  background: #82c100;
+}
+
+.error {
+  color: #C4201E;
+}
+
+.well a,
+.breadcrumb a {
+  color: #82c100;
+}
+
+.list-group-item i {
+  color: #82c100;
+}
+
+.btn-info {
+  background: #811337;
+  border-color: #280611;
+}
+
+.btn-info:hover {
+  background: #280611;
+  border-color: #811337, 20;
+}
+
+.btn-success {
+  background: #acacac;
+  border-color: #8f8e8e;
+}
+
+.btn-success:hover {
+  background: #82c100;
+  border-color: #acacac;
+}
+
+.btn-danger {
+  background: #C4201E;
+  border-color: #6c1210;
+}
+
+.btn-danger:hover {
+  background: #6c1210;
+  border-color: #C4201E;
+}
+
+.btn-warning {
+  background: #F5732C;
+  border-color: #b34508;
+}
+
+.btn-warning:hover {
+  background: #b34508;
+  border-color: #F5732C;
+}
+
+.btn-primary {
+  background: #82c100;
+  border-color: #001313;
+}
+
+.btn-primary:hover {
+  background: #001313;
+  border-color: #82c100;
+}
+
+.panel-info {
+  border-color: #811337;
+}
+
+.panel-info>.panel-heading {
+  background: #e4497c;
+  color: #811337;
+}
+
+.panel-success {
+  border-color: #acacac;
+}
+
+.panel-success>.panel-heading {
+  background: #f6f4bc;
+  border-color: #acacac;
+  color: #acacac;
+}
+
+.panel-danger {
+  border-color: #C4201E;
+}
+
+.panel-danger>.panel-heading {
+  background: #ee8f8d;
+  border-color: #C4201E;
+  color: #C4201E;
+}
+
+.panel-warning {
+  border-color: #F5732C;
+}
+
+.panel-warning>.panel-heading {
+  background: #fcd4be;
+  border-color: #F5732C;
+  color: #F5732C;
+}
+
+.panel-primary {
+  border-color: #82c100;
+}
+
+.panel-primary>.panel-heading {
+  background: #acacac;
+  border-color: #82c100;
+  color: #82c100;
+}
+
+.text-info {
+  color: #811337;
+}
+
+.text-success {
+  color: #acacac;
+}
+
+.text-danger {
+  color: #C4201E;
+}
+
+.text-warning {
+  color: #F5732C;
+}
+
+.text-primary {
+  color: #82c100;
+}
+
+footer {
+  background: #82c100;
+}
+
+footer a {
+  color: #acacac;
+}
