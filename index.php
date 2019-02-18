@@ -13,10 +13,12 @@
 
     vim: expandtab sw=4 ts=4 sts=4:
 **********************************************************************/
+require_once 'vendor/autoload.php';
 require('client.inc.php');
 require_once INCLUDE_DIR . 'class.page.php';
 $section = 'home';
-require(CLIENTINC_DIR.'header.inc.php');
+
+
 ?>
 <div class="landing-page">
 	
